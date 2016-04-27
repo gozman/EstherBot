@@ -55,6 +55,7 @@ module.exports = new Script({
                     line = line.trim();
                     p = p.then(function() {
                         console.log(line);
+                        Thread.sleep(250)
                         return bot.say(line);
                     });
                 });

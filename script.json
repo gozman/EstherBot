@@ -9,5 +9,5 @@
     "BOTS REPLACE APPS": "Gotcha. Thanks for sharing with me! %[Learn about Esther](postback:tell_me_more) %[I'm done for now](postback:done)",
     "BETTER APPS": "Gotcha. Thanks for sharing with me! %[Learn about Esther](postback:tell_me_more) %[I'm done for now](postback:done)",
     "WHY NOT BOTH?": "Gotcha. Thanks for sharing with me! %[Learn about Esther](postback:tell_me_more) %[I'm done for now](postback:done)",
-    "I'M DONE FOR NOW": "If you change your mind feel free to come back!"
+    "I'M DONE FOR NOW": "If you change your mind feel free to come back!",
 }
