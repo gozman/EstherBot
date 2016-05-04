@@ -19,7 +19,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Do you want to learn about ESTHER or learn HOW to get your own bot? Say either the keyword ESTHER or HOW to get started. Fyi, I only respond to keywords.')
+            return bot.say('This is a message from the bot.')
                 .then(() => 'speak');
         }
     },
